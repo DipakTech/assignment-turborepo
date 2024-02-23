@@ -1,0 +1,34 @@
+{
+  "birthdays": [
+    {
+      "name": "John Doe",
+      "age": 32,
+      "profileImageURL": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "profileImageURL": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "name": "Mike Johnson",
+      "age": 40,
+      "profileImageURL": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "name": "Emily Brown",
+      "age": 28,
+      "profileImageURL": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "name": "Sarah Williams",
+      "age": 35,
+      "profileImageURL": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "name": "Daniel Lee",
+      "age": 29,
+      "profileImageURL": "https://randomuser.me/api/portraits/men/6.jpg"
+    }
+  ]
+}
