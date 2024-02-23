@@ -1,3 +1,8 @@
+### Screen
+
+![alt text](image.png)
+![alt text](image-1.png)
+
 # Turborepo starter
 
 This is an official starter Turborepo.
@@ -47,11 +52,6 @@ To develop all apps and packages, run the following command:
 cd my-turborepo
 yarn dev
 ```
-
-### Screen
-
-![alt text](image.png)
-![alt text](image-1.png)
 
 ### Remote Caching
 
